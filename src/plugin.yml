@@ -1,0 +1,10 @@
+name: FunStuff
+version: 0.0.1
+author: NikolaTesla13
+main: com.github.nikolatesla13.FunStuff
+api-version: 1.17
+commands:
+  getSocialScore:
+    description: Sends the current social credit score
+    usage: /<command>
+    aliases: []
